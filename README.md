@@ -74,3 +74,11 @@ Configure::write('meta', array(
 
 This should give you Rapid Appication Development (RAD) cake bake
 template results that you can immediate use as the basis of your applications.
+
+Here's how the search will be added to your index:
+
+![SearchIndex](https://raw.github.com/noud/cakephp-condense_template/master/screenshots/SearchIndex.png)
+
+Here's how one your views having multiple hasMany relations will use Ajax paginated elements.
+
+![AjaxPaginationElements](https://raw.github.com/noud/cakephp-condense_template/master/screenshots/AjaxPaginationElements.png)
